@@ -3,6 +3,7 @@
 				Welcome to Vidivox!!
 ======================================================================================
 
+NOTE: All features run successfully only on Linux based systems
 
 Running application:
 
